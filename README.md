@@ -21,7 +21,7 @@ This repository contains a Traffic Management System that integrates Google Maps
 ## Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
-- **Backend**: (To be added)
+- **Backend**: Flask, Python
 - **Google Maps API**: For location selection, map visualization, and route suggestions.
 - **AI Traffic Prediction Model**: Machine learning model trained on historical traffic, weather, and time data.
 - **Google OAuth**: For user authentication and login functionality.
