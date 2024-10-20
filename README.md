@@ -31,7 +31,7 @@ This repository contains a Traffic Management System that integrates Google Maps
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/traffic-management-system.git
+    git clone https://github.com/garimatanejaa/traffic-management-system.git
     cd traffic-management-system
     ```
 
